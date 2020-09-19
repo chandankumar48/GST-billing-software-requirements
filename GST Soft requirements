@@ -1,0 +1,143 @@
+Section 31 of the CGST Act, 2017 mandates the issuance of an GST invoice or a GST bill for every registered person for the supply of goods or services. A tax invoice under GST is an important document. Not only is it evidence of supply of goods or services, but it is also a crucial document for the recipient to avail Input Tax Credit (ITC).
+For every company selling goods or services in India, raising correct GST invoices is very important. Here is a complete guide to raising the correct GST invoice as per the rules laid down:
+
+
+GST invoice – Mandatory Components
+Supplier Details:
+1.	Name.
+2.	Address.
+3.	GSTIN
+
+Unique Tax Invoice Number
+Nature of Invoice:
+1.	Tax Invoice.
+2.	Supplementary Invoice.
+3.	Revised Invoice.
+4.	Date of issue.
+
+Details of the Registered Buyer:
+1.	Name.
+2.	Address.
+3.	GSTIN.
+
+In Case of Unregistered Buyers With Value More Than Rs. 50,000
+1.	Name and address.
+2.	Address of delivery.
+3.	State name and code.
+
+HSN Code of Goods or Accounting Code of Services
+HSN stands for Harmonized System of Nomenclature which is a code that classifies different products. India follows a 3 tiered structure for the purpose of raising a GST invoice:
+
+1.	Less than INR 1.5 Crores turnover: HSN code not required.
+2.	Turnover between INR 1.5 Crores to INR 5 Crores: 2 digit HSN codes.
+3.	Turnover above INR 5 Crores: 4 digit HSN codes.
+4.	Imports or export dealers need to mandatorily follow 8 digit HSN codes.
+
+
+
+
+Description of the Goods/services
+1.	Quantity of goods (number) and unit (meter, kg etc).
+2.	Value of goods or services.
+
+Rate and Amount of Tax on the Items With a Clear Breakup
+1.	CGST.
+2.	SGST.
+3.	IGST.
+4.	UTGST.
+5.	Cess.
+
+Place of supply
+Name of destination state for sales beyond state borders. The delivery address is necessary in case it is different from the place of supply.
+GST on Reverse Charge Basis
+A statement clarifying if the GST is to be paid on reverse charge basis.
+GST Invoice Format for Exports
+Export invoices require a declaration citing that GST has been paid on such exports.
+Pre-paid IGST on exports: “Supply Meant For Export On Payment Of IGST”
+IGST not been paid: “Supply Meant For Export Under Bond Or Letter Of Undertaking Without Payment Of IGST”
+Mandatory Details:
+
+1.	Name of the buyer
+2.	Address of the buyer
+3.	Delivery address
+4.	Destination country
+5.	For removal of goods: Number and date of application (FORM ARE-1)
+An Input Service Distributor has to add “Amount of credit distributed” to the invoice instead of the rate and value of the goods or services.
+Goods Transport Agency:
+1.	Name and address of the consignor and the consignee
+2.	Number of the registered vehicle
+3.	Gross weight of the consignment
+4.	Place of Origin
+5.	Details of the destination
+6.	GSTIN of the person liable to pay the tax
+
+
+Input Service Distributor (ISD)
+1.	Name
+2.	Address
+3.	GST Registration number or GSTIN
+4.	The serial number of the invoice/credit
+5.	Date of issue
+6.	Name, address, and GSTIN of the person eligible for the credit.
+7.	Amount of credit distributed
+8.	Authentication by the input service provider or authorized representative
+
+Registered person with the same PAN and State code as the ISD:
+1.	Name, Address, and GSTIN
+2.	Consecutive serial number that does not exceed 16 characters
+3.	Date of issue
+4.	GSTIN of the supplier of common service
+5.	Original invoice number
+6.	Name, address, and GSTIN of the Input Service Distributor
+7.	Taxable value, rate and amount of the credit to be transferred
+8.	Authentication by the registered person or authorized representative
+
+Insurance/Banking/financial institutions/NBFC
+A consolidated tax invoice is necessary for all the supplies made during the month. This needs to be raised at the end of the month. If the document is other than a tax invoice, it must contain all the other required information for a tax invoice. Optional information like serial number and recipient address is not required in this case. The invoice is to be made available electronically or physically.
+
+Passenger Transporter Services:
+For a passenger transportation service provider, all the other information prescribed for a tax invoice is mandatory.
+
+Optional Information
+1.	Serial number
+2.	Address of the recipient of the taxable service
+
+Time Limit:
+
+Goods: On or before the date of removal or delivery. Section 2(96) of the Act defines “Removal of goods” as follows:
+1.	Dispatch of the goods for delivery by the supplier thereof or by any other person acting on behalf of such supplier; Collection of the goods by the recipient thereof or by any other person acting on behalf of such recipient.
+2.	Continuous supply of goods: On or before the date of issue of account statement/payment
+3.	General Services: Within 30 days of supply of services
+4.	Services (Banks and NBFCs): Within 45 days of supply of service
+
+In case of termination of supply before the end of the contract, at the time of such cessation.
+Manner of issuing an invoice
+A GST invoice has to be prepared in the following manner:
+For Goods: Triplicate
+The original copy marked as ORIGINAL FOR RECIPIENT
+The duplicate copy marked as DUPLICATE FOR TRANSPORTER
+The triplicate copy marked as TRIPLICATE FOR SUPPLIER.
+For Services: Duplicate
+The original copy marked as ORIGINAL FOR RECIPIENT
+The duplicate copy being marked as DUPLICATE FOR SUPPLIER
+The serial number of invoices issued during a tax period has to be furnished electronically in form GSTR-1 through the GST Portal.
+
+Other types of Invoices:
+
+Bill of Supply:
+Issued Where Tax Cannot Be Charged:
+1.	Sale of exempted goods or services by a registered person
+2.	A registered person has opted for composition scheme
+
+Invoice-cum-bill of Supply:
+Issued in case of the supply of taxable as well as exempted goods/services by a registered person to an unregistered person
+
+Aggregate Invoice:
+
+For sale by a registered supplier to an unregistered buyer where the value of invoices is less than Rs. 200. An Aggregate invoice can be raised on a daily basis in such cases.
+
+Debit Note/Credit Note:
+
+A Debit Note is necessary in case of an upward revision in the price of goods or services that were supplied earlier and were chargeable to GST. A Credit Note has to be issued in case of a downward revision of price.
+At present, businesses use different software to generate invoices. The details of such GST invoices are uploaded manually in the GSTR-1 return. This then reflects in GSTR-2A for recipients to view.
+
